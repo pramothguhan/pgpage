@@ -183,4 +183,5 @@ I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time 
 
 *“Building systems that scale, models that learn, and data that tells stories.”*
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Views&color=00BFA6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=pramothguhan&label=Views&color=00BFA6&style=flat-square)
+
