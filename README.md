@@ -24,10 +24,10 @@ I'm a **Data Engineer and AI Engineer in the making**, passionate about crafting
 
 Currently pursuing my **Master’s in Data Analytics Engineering @ Northeastern University (GPA: 3.84/4.0)**, where I explore the sweet spot between **data infrastructure, machine learning, and generative AI**. 
 
-🎓 Master's in Computer Science @ Northeastern University (2024-2026)
-💼 Former ML Engineer @ Kubby 
-🏆 Teaching Assistant for Machine Learning Operations
-🏆 Research Assistant @ Movement Neuroscience Lab
+- 🎓 Master's in Computer Science @ Northeastern University (2024-2026)
+- 💼 Former ML Engineer (AI/ML Team Lead) @ Kubby 
+- 🏆 Teaching Assistant for Machine Learning Operations
+- 🏆 Research Assistant @ Movement Neuroscience Lab
 
 > ⚙️ *I love solving data bottlenecks, automating the boring stuff, and pushing AI to be faster, smarter, and more explainable.*  
 
