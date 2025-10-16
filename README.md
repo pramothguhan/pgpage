@@ -22,38 +22,43 @@
 
 I'm a **Data Engineer and AI Engineer in the making**, passionate about crafting **intelligent data pipelines** and **LLM-powered systems** that make information flow seamlessly.  
 
-Currently pursuing my **Master’s in Data Analytics Engineering @ Northeastern University (GPA: 3.84/4.0)**, where I explore the sweet spot between **data infrastructure, machine learning, and generative AI**.  
+Currently pursuing my **Master’s in Data Analytics Engineering @ Northeastern University (GPA: 3.84/4.0)**, where I explore the sweet spot between **data infrastructure, machine learning, and generative AI**. 
+
+🎓 Master's in Computer Science @ Northeastern University (2024-2026)
+💼 Former ML Engineer @ Kubby 
+🏆 Teaching Assistant for Machine Learning Operations
+🏆 Research Assistant @ Movement Neuroscience Lab
 
 > ⚙️ *I love solving data bottlenecks, automating the boring stuff, and pushing AI to be faster, smarter, and more explainable.*  
 
-I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time opportunities starting May 2026** in:  
-🚀 Data Engineering | ML Ops | AI Systems | Cloud Infrastructure  
+I’m currently seeking **Spring 2026 internships** and **full-time opportunities starting January 2026** in:  
+  Data Engineering | ML Ops | AI Systems | Cloud Infrastructure  
 
 
 
 ## 💼 Experience That Shaped Me  
 
-### 🧠 **Graduate Research Assistant — Northeastern University** *(May 2025 – Present)*  
+###  **Graduate Research Assistant — Northeastern University** *(May 2025 – Present)*  
 - Built **multi-label classifiers** for sEMG gesture recognition — improved accuracy by **25%**.  
 - Designed **synthetic data generation pipelines**, cutting calibration time by **50%**.  
 - Processed real-time sensor data with **LabGraph**, achieving **10× faster training**.  
 
-### 🎓 **Graduate Teaching Assistant — MLOps (IE7374)** *(Sep 2025 – Present)*  
+###  **Graduate Teaching Assistant — MLOps (IE7374)** *(Sep 2025 – Present)*  
 - Mentored 100+ students in **Vertex AI, Airflow & Docker** for ML deployment.  
 - Designed **hands-on labs** and led evaluations for 25+ student teams.  
 - Contributed to an **open-source MLOps repository** for scalable learning.  
 
-### 🤖 **ML Operations Engineer — Kubby Inc, Austin, TX** *(Jan 2025 – Jun 2025)*  
+###  **ML Operations Engineer — Kubby Inc, Austin, TX** *(Jan 2025 – Jun 2025)*  
 - Engineered the **Kubby IQ Chatbot** using **RAG + GPT-4 + AWS OpenSearch**, achieving **95% accuracy**.  
 - Migrated recommendation systems to **hybrid collaborative filtering**, enhancing personalization.  
 - Built **NLP-based tagging** using **TF-IDF & NER**, boosting search accuracy by **30%**.  
 
-### 🧬 **Data Scientist — MediGuru Pvt Ltd, Remote** *(Mar 2024 – Dec 2024)*  
+###  **Data Scientist — MediGuru Pvt Ltd, Remote** *(Mar 2024 – Dec 2024)*  
 - Implemented **RAG + embeddings** for healthcare data, achieving **97% retrieval accuracy**.  
 - Leveraged **GPT-4, Mistral, Llama & Gemini Pro** to create context-aware healthcare assistants.  
 - Led **KPI analysis** for Atavus Football, mining data from 150+ games to improve defense strategy.  
 
-### 💻 **Software Engineer — InnoHat Systems, Chennai, IN** *(Oct 2021 – Jan 2023)*  
+###  **Software Engineer — InnoHat Systems, Chennai, IN** *(Oct 2021 – Jan 2023)*  
 - Optimized **ETL pipelines** in Tableau and AWS S3, cutting data latency by **30%**.  
 - Partnered with analytics teams to create **data-driven insights** that improved business outcomes.  
 - Delivered Agile-based cloud solutions that scaled across teams and departments.  
@@ -62,11 +67,11 @@ I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time 
 
 ## 🎓 Education  
 
-🎓 **Northeastern University**, Boston, MA  
+ **Northeastern University**, Boston, MA  
 *M.S. in Data Analytics Engineering* — *GPA: 3.84/4.0* _(Expected Dec 2025)_  
 📘 *Key Coursework:* MLOps · NLP · Data Mining · Generative AI · Cloud Data Management  
 
-🏫 **Anna University**, Chennai, India  
+ **Anna University**, Chennai, India  
 *B.E. in Computer Science* — *GPA: 3.3/4.0* _(June 2023)_  
 📘 *Key Coursework:* Machine Learning · Data Structures · Cloud Computing · Software Development  
 
@@ -156,10 +161,13 @@ I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time 
 
 ## 🏛️ Leadership & Impact  
 
-### 🌍 **Director of International Student Concerns — NAGPS**  
+###  **Graduate Student Mentor, Peer Pathway Program — Northeastern University**  
+- Mentored incoming **international graduate students** in their first semesters 
+
+###  **Director of International Student Concerns — NAGPS**  
 - Advocated for **100,000+ international graduate students** across 100+ U.S. institutions.  
 
-### 🧩 **Senator (Tech & Student Affairs) — Graduate Student Government**  
+###  **Senator (Technology & Student Affairs) — Graduate Student Government**  
 - Represented **18,000+ graduate students** across 9 colleges.  
 - Created **Power BI dashboards** improving transparency by **25%**.  
 - Led community events — *Fall Brunch, Karaoke Night, Sustainability Drive* — enhancing engagement.  
