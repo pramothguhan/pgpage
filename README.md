@@ -96,7 +96,7 @@ I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time 
 
 🧩 *More projects available on my [GitHub](https://github.com/pramothguhan?tab=repositories)*  
 
----
+
 
 ## 🧠 Tech Stack  
 
@@ -152,7 +152,7 @@ I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flourish](https://img.shields.io/badge/Flourish-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
 
----
+
 
 ## 🏛️ Leadership & Impact  
 
@@ -164,7 +164,7 @@ I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time 
 - Created **Power BI dashboards** improving transparency by **25%**.  
 - Led community events — *Fall Brunch, Karaoke Night, Sustainability Drive* — enhancing engagement.  
 
----
+
 
 ## 🧾 Publications  
 
@@ -172,7 +172,7 @@ I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time 
 *Springer — Advances in Computing & Information (ERCICA 2023)*  
 🔗 [DOI: 10.1007/978-981-99-7622-5](https://doi.org/10.1007/978-981-99-7622-5)  
 
----
+
 
 ## 🌱 Currently Exploring  
 
@@ -181,7 +181,7 @@ I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time 
 ☁️ MLOps Automation in GCP & AWS  
 🧠 Multimodal Model Optimization  
 
----
+
 
 ## 📫 Let’s Connect!  
 
