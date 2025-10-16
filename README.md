@@ -71,7 +71,7 @@ I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time 
 📘 *Key Coursework:* Machine Learning · Data Structures · Cloud Computing · Software Development  
 
 
----
+
 
 ## 🚀 Featured Projects  
 
