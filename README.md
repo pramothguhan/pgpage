@@ -1,9 +1,25 @@
-# 👋 Hey there, I'm **Pramoth Guhan**  
+#  Hey there, I'm **Pramoth Guhan** 👋  
 
-🎯 *Data Engineer | ML & GenAI Enthusiast | Building Smart Systems that Think, Learn & Scale*  
+*Data Engineer | ML & GenAI Enthusiast | Building Smart Systems that Think, Learn & Scale*  
 
 📍 **Boston, MA** | ✉️ guhan.p@northeastern.edu  
-💼 [LinkedIn](https://linkedin.com/in/your-link) · 💻 [GitHub](https://github.com/your-link) · 🌐 [Portfolio](https://your-portfolio-link.com) · 📊 [Tableau](https://public.tableau.com/profile/your-link)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://YOUR-PORTFOLIO.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guhan.p@northeastern.edu)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pramothguhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.datascienceportfol.io/pramothguhan">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:guhan.p@northeastern.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 
 ---
 
