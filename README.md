@@ -1,8 +1,8 @@
 #  Hey there, I'm **Pramoth Guhan** 👋  
 
-*Data Engineer | ML & GenAI Enthusiast | Building Smart Systems that Think, Learn & Scale*  
+*Data Engineer | ML & GenAI Enthusiast | Building Smart Systems that Think, Learn & Scale* |📍 **Boston, MA**  
 
-📍 **Boston, MA** | ✉️ guhan.p@northeastern.edu  
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pramothguhan/">
