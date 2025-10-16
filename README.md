@@ -32,18 +32,6 @@ I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time 
 
 ---
 
-## 🎓 Education  
-
-🎓 **Northeastern University**, Boston, MA  
-*M.S. in Data Analytics Engineering* — *GPA: 3.84/4.0* _(Expected Dec 2025)_  
-📘 *Key Coursework:* MLOps · NLP · Data Mining · Generative AI · Cloud Data Management  
-
-🏫 **Anna University**, Chennai, India  
-*B.E. in Computer Science* — *GPA: 3.3/4.0* _(June 2023)_  
-📘 *Key Coursework:* Machine Learning · Data Structures · Cloud Computing · Software Development  
-
----
-
 ## 💼 Experience That Shaped Me  
 
 ### 🧠 **Graduate Research Assistant — Northeastern University** *(May 2025 – Present)*  
@@ -73,6 +61,19 @@ I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time 
 
 ---
 
+## 🎓 Education  
+
+🎓 **Northeastern University**, Boston, MA  
+*M.S. in Data Analytics Engineering* — *GPA: 3.84/4.0* _(Expected Dec 2025)_  
+📘 *Key Coursework:* MLOps · NLP · Data Mining · Generative AI · Cloud Data Management  
+
+🏫 **Anna University**, Chennai, India  
+*B.E. in Computer Science* — *GPA: 3.3/4.0* _(June 2023)_  
+📘 *Key Coursework:* Machine Learning · Data Structures · Cloud Computing · Software Development  
+
+
+---
+
 ## 🚀 Featured Projects  
 
 ### 🧠 **Mental Health CounselChat** | *AWS · Streamlit · OpenAI · RoBERTa*  
@@ -94,7 +95,7 @@ I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time 
 ### 📊 **Loan Portfolio Dashboard** | *Tableau*  
 > Visualized **$750M in loan data** from **5.7M+ applications** to uncover lending trends.  
 
-🧩 *More projects available on my [GitHub](https://github.com/your-link)*  
+🧩 *More projects available on my [GitHub](https://github.com/pramothguhan?tab=repositories)*  
 
 ---
 
