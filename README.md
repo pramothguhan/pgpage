@@ -17,7 +17,6 @@
 </p>
 
 
----
 
 ## 🧠 About Me  
 
@@ -30,7 +29,7 @@ Currently pursuing my **Master’s in Data Analytics Engineering @ Northeastern 
 I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time opportunities starting May 2026** in:  
 🚀 Data Engineering | ML Ops | AI Systems | Cloud Infrastructure  
 
----
+
 
 ## 💼 Experience That Shaped Me  
 
@@ -59,7 +58,7 @@ I’m currently seeking **Fall 2025 / Spring 2026 internships** and **full-time 
 - Partnered with analytics teams to create **data-driven insights** that improved business outcomes.  
 - Delivered Agile-based cloud solutions that scaled across teams and departments.  
 
----
+
 
 ## 🎓 Education  
 
